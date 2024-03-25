@@ -615,3 +615,35 @@ button:hover {
     min-height: 100%;
     width: 100%;
 }
+
+
+.img_blogsar{
+
+}
+.img_blogsar img{
+    width: 75px;
+    height: 75px;
+    border-radius: 100%;
+    border: 1px solid #fff;
+}
+
+
+.timeline-item-content, .timeline-item-content-full {
+    min-height: 130px;
+}
+
+.timeline-deco {
+    right: 60px;
+    left: auto;
+}
+
+.timeline-item .timeline-icon {
+    right: 21px;
+    left: auto;
+    top: 30px;
+}
+
+.timeline-item-content, .timeline-item-content-full {
+    margin: 0 105px 30px 15px;
+    padding-right: 15px;
+}
